@@ -7,7 +7,7 @@
 - Yamada Theme - comming soon
 - Yamada Components - comming soon
 - AI Commit - comming soon
-- [repo-file-sync-action](https://github.com/hirotomoyamada/repo-file-sync-action)
+- [Repo File Sync Action](https://github.com/hirotomoyamada/repo-file-sync-action)
 
 ### Contributing
 
