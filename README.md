@@ -6,7 +6,7 @@
 - Yamada Colors - comming soon
 - Yamada Theme - comming soon
 - Yamada Components - comming soon
-- AI Commit - comming soon
+- [AI Commit](https://github.com/hirotomoyamada/ai-commit)
 - [Repo File Sync Action](https://github.com/hirotomoyamada/repo-file-sync-action)
 
 ### Contributing
