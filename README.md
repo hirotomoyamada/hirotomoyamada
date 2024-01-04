@@ -13,6 +13,7 @@
 
 - [Next.js](https://github.com/vercel/next.js)
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [Mantine](https://github.com/mantinedev/mantine)
 
 ### languages
 
