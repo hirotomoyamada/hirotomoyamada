@@ -3,9 +3,9 @@
 ### Planning and Producing
 
 - [Yamada UI](https://github.com/hirotomoyamada/yamada-ui)
-- Yamada Colors - comming soon
+- [Yamada Colors](https://github.com/hirotomoyamada/yamada-colors)
 - Yamada Theme - comming soon
-- Yamada Components - comming soon
+- [Yamada Components](https://github.com/hirotomoyamada/yamada-components)
 - [AI Commit](https://github.com/hirotomoyamada/ai-commit)
 - [Repo File Sync Action](https://github.com/hirotomoyamada/repo-file-sync-action)
 
