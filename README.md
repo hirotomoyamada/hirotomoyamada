@@ -16,6 +16,7 @@
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
 - [Mantine](https://github.com/mantinedev/mantine)
 - [Refine](https://github.com/refinedev/refine)
+- [Motion](https://github.com/motiondivision/motion)
 - [Lucide](https://github.com/lucide-icons/lucide)
 
 ### languages
