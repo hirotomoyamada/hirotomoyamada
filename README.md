@@ -4,10 +4,6 @@
 
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 - [Yamada Colors](https://github.com/yamada-ui/yamada-colors)
-- [Yamada Theme](https://github.com/yamada-ui/yamada-theme)
-- [Yamada Components](https://github.com/yamada-ui/yamada-components)
-- [AI Commit](https://github.com/hirotomoyamada/ai-commit)
-- [Repo File Sync Action](https://github.com/hirotomoyamada/repo-file-sync-action)
 
 ### Contributing
 
