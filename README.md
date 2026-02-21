@@ -9,6 +9,7 @@
 
 - [Next.js](https://github.com/vercel/next.js)
 - [Storybook](https://github.com/storybookjs/storybook)
+- [shadcn/ui](https://github.com/shadcn-ui/ui)
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
 - [Mantine](https://github.com/mantinedev/mantine)
 - [Refine](https://github.com/refinedev/refine)
