@@ -15,6 +15,8 @@
 - [Refine](https://github.com/refinedev/refine)
 - [Motion](https://github.com/motiondivision/motion)
 - [Lucide](https://github.com/lucide-icons/lucide)
+- [Sonner](https://github.com/emilkowalski/sonner)
+- [tsdown](https://github.com/rolldown/tsdown)
 
 ### languages
 
