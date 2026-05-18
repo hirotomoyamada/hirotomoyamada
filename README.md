@@ -5,6 +5,8 @@
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 - [Yamada Colors](https://github.com/yamada-ui/yamada-colors)
 
+- [OpenCode Magi](https://github.com/magi-ai/opencode-magi)
+
 ### Contributing
 
 - [Next.js](https://github.com/vercel/next.js)
